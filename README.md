@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jhonathan T. Punzalan
+- 👋 Kon 'nichiwa I’m @Jhonathan T. Punzalan
 - 👀 I’m interested in gamibg and programming
 - 🌱 I’m currently learning javascript, phyton and visualbasics
 - 📫 email: punzalanjhonathantisbe@gmail.com
